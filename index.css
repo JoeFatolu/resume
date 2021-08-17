@@ -1,10 +1,12 @@
 .firstName {
 	font-size: 50px;
 	font-weight: 400;
+	line-height: 50px;
 }
 .lastName {
 	font-size: 60px;
 	font-weight: 900;
+	line-height: 65px;
 }
 .role {
 	width: 190px;
