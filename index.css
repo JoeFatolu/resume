@@ -48,6 +48,10 @@ body {
 	height: 100%;
 	flex-direction: column;
 }
+
+body > div {
+	padding-left: 20px;
+}
 .top {
 	z-index: 999;
 	position: absolute;
@@ -60,7 +64,7 @@ a {
 }
 .left {
 	background-color: #eee;
-	padding-top: 100px;
+	padding-top: 120px;
 	height: 100%;
 }
 .right {
